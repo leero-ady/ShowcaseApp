@@ -58,7 +58,7 @@
 
         <Button
             style="@style/buttonStyle"
-            android:text="XYZ READER"
+            android:text="WXYZ READER"
             android:id="@+id/xyzreaderButton"
 
             />
